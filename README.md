@@ -1,71 +1,14 @@
 <div align="center">
 
-<h1>
-  ADITHYAN JAGADEESWARAN
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Adithyan Jagadeeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building the Future of AI Systems&descAlignY=58&descSize=18" width="100%"/>
 
-<h3>
-Founder @ <strong>Valsia</strong> • AI Systems Engineer • AI Security Enthusiast
-</h3>
-
-<p>
-Building secure AI infrastructure, intelligent backend systems, and agentic AI products that are scalable, production-ready, and security-first.
-</p>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=7C83FD&center=true&vCenter=true&width=850&lines=Building+Valsia+AI;AI+Systems+Engineer;Backend+%26+Cloud+Architecture;Agentic+AI+%7C+AI+Security;Hackathon+Builder;Open+Source+Learner;Turning+Ideas+into+Production+Systems" />
-
-<br><br>
-
-<a href="https://portfolio-nfdc.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:adithyan08.work@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
 <a href="https://github.com/kiyotakaaKira">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=8A8AFF&center=true&vCenter=true&width=650&lines=AI+Systems+Engineer;AI+Security+Researcher;Full+Stack+AI+Builder;Startup+Founder+|+Hackathon+Builder;Building+Valsia+AI" alt="Typing SVG" />
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=kiyotakaaKira&label=Profile+Views&color=6C63FF&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Founder Dashboard
-
-| | |
-|:---|:---|
-| 🏢 **Startup** | **Valsia AI** |
-| 💻 **Focus** | AI Systems • Backend • AI Security |
-| 📍 **Location** | Chennai, India 🇮🇳 |
-| 🎯 **Current Goal** | AI Systems Architect |
-| 🏆 **Hackathons** | 10+ National Hackathons |
-| 🔐 **Research** | AI Security • Agent Security |
-| 🌱 **Currently Learning** | Distributed Systems • Cloud Infrastructure |
-| 🤝 **Open To** | Internships • Open Source • Collaborations |
-
-</div>
-
----
-
-## 💡 Engineering Philosophy
-
-> **"I build systems that don't just work—they scale, stay secure, and solve real problems. Every project I ship is designed with production, observability, and resilience in mind."**
-
-<br>
+<br/><br/>
 
 <p>
 <a href="https://portfolio-nfdc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>

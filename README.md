@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:0a0a12&height=180&section=header&text=ADITHYAN%20JAGADEESWARAN&fontSize=34&fontColor=e8e8ed&fontAlignY=45&desc=Founder%20%40%20Valsia%20%C2%B7%20Building%20Secure%20AI%20Systems&descAlignY=62&descSize=15&descColor=8b8bf5&animation=fadeIn" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:0a0a12&height=170&section=header&text=ADITHYAN%20JAGADEESWARAN&fontSize=32&fontColor=e8e8ed&fontAlignY=42&desc=Founder%2C%20Valsia%20%E2%80%94%20AI%20Systems%20%26%20Infrastructure&descAlignY=60&descSize=14&descColor=8b8bf5" width="100%"/>
 
 <a href="https://github.com/kiyotakaaKira">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=20&duration=3500&pause=1200&color=8B8BF5&center=true&vCenter=true&width=600&lines=Founder+%40+Valsia;AI+Infrastructure+%26+Agentic+Systems;Security-First+Backend+Engineering;Chennai%2C+India" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=3500&pause=1200&color=8B8BF5&center=true&vCenter=true&width=560&lines=Building+AI+systems+that+survive+contact+with+reality.;Currently%3A+Valsia+%2B+CIT-Sentinel." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -17,21 +15,7 @@
 Chennai, India
 </sub>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/CURRENT_MISSION-Building_Valsia-000000?style=flat-square&labelColor=0a0a12&color=8B8BF5" alt="mission"/>
-
 </div>
-
-<br/>
-
-## Founder Manifesto
-
-I don't build AI systems to demonstrate that I can. I build them because most AI products today skip the part that actually matters — what happens when the system is wrong, attacked, or trusted with something it shouldn't be.
-
-My work sits at the intersection of two disciplines that are usually kept apart: **building intelligent systems** and **breaking them on purpose**. I design agentic AI products the way a security engineer would — assuming failure, assuming misuse, assuming an adversary is already inside the loop. That's not caution for its own sake. It's what separates a demo from a product people can rely on.
-
-Right now that means building **Valsia**, an AI-powered skill-to-employability engine, and shipping **CIT-Sentinel**, a real-time academic risk-detection platform running on live infrastructure with an actual dataset behind it — not a mockup. Both exist because I'd rather ship something that works under real conditions than something that only works in a pitch.
 
 <br/>
 
@@ -41,89 +25,88 @@ Right now that means building **Valsia**, an AI-powered skill-to-employability e
 <tr>
 <td width="50%" valign="top">
 
-### Valsia
-**AI-powered skill-to-job conversion engine**
+### 🟣 Valsia
+**AI career-readiness engine**
 
-**Mission** — Convert scattered, unvalidated skills into a clear, employable career path with a measurable readiness score.
+Converts a person's existing skills into a job-role fit score, a gap analysis, and a 30-day execution plan — built as a private, self-hosted product rather than a wrapper on someone else's API.
 
-**Architecture** — Next.js frontend, containerized backend, local LLaMA-class inference over Docker Compose for on-prem/private deployment (no external API dependency required).
+`Next.js` `TypeScript` `Docker` `Local LLM (GGUF)`
 
-**Stack** — `Next.js` `TypeScript` `Docker` `Local LLM (LLaMA/GGUF)`
+**Status:** Phase 1 MVP · active
+**Team:** 4 co-founders
 
-**Status** — `Phase 1 MVP — active`
-
-**Engineering Challenge** — Running inference entirely offline forced tight constraints on model size vs. output quality, and keeping the skill-gap scoring logic explainable rather than a black box.
-
-**Business Impact** — Positions skill development as a pipeline with a measurable output (job-readiness), not a content-consumption product.
-
-[`Live`](https://valsia-1-kappa.vercel.app) · [`Repository`](https://github.com/kiyotakaaKira/valsia-1)
+[`Live`](https://valsia-1-kappa.vercel.app) · [`Repo`](https://github.com/kiyotakaaKira/valsia-1)
 
 </td>
 <td width="50%" valign="top">
 
-### CIT-Sentinel
-**AI-driven student retention & dropout-prevention platform**
+### 🟢 CIT-Sentinel
+**Dropout-prediction platform**
 
-**Mission** — Predict academic dropout risk weeks before it becomes irreversible, and route the right intervention to the right role automatically.
+Scores every student in real time across five academic dimensions, classifies risk behaviorally, and routes the right intervention to the right role — six live dashboards, one shared truth.
 
-**Architecture** — React/Vite frontend talking to an Express + MongoDB Atlas backend over REST, with Server-Sent Events pushing live score updates to six role-based dashboards. A `pre-save` hook recalculates a weighted risk score on every data mutation.
+`React` `Node.js` `MongoDB Atlas` `Llama 3.2 + Claude fallback`
 
-**Stack** — `React` `TypeScript` `Node.js` `Express` `MongoDB Atlas` `Llama 3.2 (Ollama)` `Claude API fallback`
+**Status:** Deployed · live data (560 students, 4 depts)
 
-**Status** — `Deployed — functional with live data`
-
-**Engineering Challenge** — Keeping six dashboards (Student → Chairman) in sync in real time without polling everything, and designing a scoring formula that's transparent enough for a teacher to trust it.
-
-**Business Impact** — Modeled against a 560-student dataset across 4 departments; designed to cut intervention response time from 4–6 weeks to under one.
-
-[`Live`](https://cit-sentinal.vercel.app) · [`Repository`](https://github.com/kiyotakaaKira/cit-sentinel-v2)
+[`Live`](https://cit-sentinal.vercel.app) · [`Repo`](https://github.com/kiyotakaaKira/cit-sentinel-v2)
 
 </td>
 </tr>
 </table>
 
+<div align="center"><sub><i>Featuring only what's shipped and verifiable — not everything I've written code for.</i></sub></div>
+
 <br/>
 
-## Engineering Expertise
+## Architecture I Think In
+
+```
+                              YOU BUILD THE PRODUCT
+                                      │
+                ┌─────────────────────┼─────────────────────┐
+                │                     │                     │
+           AI SYSTEMS             BACKEND              CYBERSECURITY
+                │                     │                     │
+        LLM orchestration      REST + real-time      Threat modeling
+        Local + cloud          role-based access      Agent security
+        fallback design        MongoDB / schemas       Network fundamentals
+                │                     │                     │
+                └─────────────────────┼─────────────────────┘
+                                      │
+                              A SYSTEM THAT SURVIVES
+                              BEING WRONG, ATTACKED,
+                              AND UNWATCHED
+```
+
+<br/>
+
+## Engineering Domains
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **AI Systems**
-Agentic architectures, LLM orchestration, local + cloud inference fallback design, prompt-as-contract patterns
+Agentic architectures · LLM orchestration · local/cloud inference fallback
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 **Backend & Distributed Systems**
-REST API design, real-time sync via SSE, role-based access control, schema-driven data integrity
+REST APIs · SSE real-time sync · RBAC · schema-driven integrity
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-**Cybersecurity & AI Security**
-Threat modeling, agent security, network fundamentals, zero-trust reasoning applied to AI pipelines
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**Cloud Infrastructure**
-MongoDB Atlas, Vercel deployment pipelines, containerized services with Docker Compose
+**Cybersecurity / AI Security**
+Threat modeling · agent security · zero-trust reasoning applied to AI pipelines
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-**Computer Vision**
-Applied CV for monitoring and detection use cases within AI product prototypes
-
-</td>
-<td width="33%" valign="top">
-
-**System Design**
-Designing for explainability and auditability first — score formulas, activity logs, and audit trails as first-class features, not afterthoughts
+**Cloud & Infra**
+MongoDB Atlas · Vercel pipelines · Docker Compose
 
 </td>
 </tr>
@@ -131,31 +114,25 @@ Designing for explainability and auditability first — score formulas, activity
 
 <br/>
 
-## Founder Timeline
+## Timeline
 
-```
-2026   ── CIT-Sentinel deployed with live MongoDB Atlas backend, 560-student dataset,
-           real-time SSE sync, and dual AI inference (Llama 3.2 + Claude fallback)
+| | |
+|---|---|
+| **2026** | Deployed CIT-Sentinel — live MongoDB Atlas backend, SSE real-time sync, dual AI inference |
+| **2025** | Co-founded Valsia — shipped Phase 1 MVP |
+| **2025** | National hackathons: RIFT · Vortexa · SDG Hackathon · Aiventra · Resilient · DevFusion · ET Hackathon · SAHAI · HackOrbit · Bharatiya Antariksh Hackathon |
+| **Ongoing** | AI & Data Science, Chennai Institute of Technology · self-directed security fundamentals (Linux, networking, CTF-style practice) |
 
-2025   ── Co-founded Valsia — shipped Phase 1 MVP of the Skill Mentor module
-       ── Selected across national hackathon circuits: RIFT, Vortexa, SDG Hackathon,
-           Aiventra, Resilient, DevFusion, ET Hackathon, SAHAI, HackOrbit,
-           Bharatiya Antariksh Hackathon
-       ── Began formal study in AI & Data Science, Chennai Institute of Technology
-
-Ongoing ── Practicing offensive security fundamentals (Linux, networking, CTF-style
-           problem solving) to inform how I secure the systems I build
-```
+<sub><i>Certifications and internships aren't listed — I couldn't verify them against your GitHub or a public source, so I left them out rather than guess. Tell me which ones are real and I'll add them.</i></sub>
 
 <br/>
 
 ## Current Focus
 
-- Scaling **Valsia** past MVP into a production-ready skill-to-job engine
-- Hardening AI infrastructure — fallback inference, rate limiting, prompt-injection resistance
-- Designing secure agentic systems from first principles rather than bolting on security later
-- Deepening backend and distributed-systems fundamentals through shipped work, not tutorials
-- Contributing to open source as a way of stress-testing my code against strangers' standards
+- Scaling Valsia past MVP
+- Hardening AI infrastructure — fallback inference, prompt-injection resistance
+- Designing agentic systems security-first, not security-later
+- Open source, as a way to get code-reviewed by strangers
 
 <br/>
 
@@ -163,30 +140,22 @@ Ongoing ── Practicing offensive security fundamentals (Linux, networking, CT
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=kiyotakaaKira&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakaaKira&theme=dark&hide_border=true&background=00000000&ring=8B8BF5&fire=8B8BF5&currStreakLabel=8B8BF5"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=kiyotakaaKira&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/>
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakaaKira&theme=dark&hide_border=true&background=00000000&ring=8B8BF5&fire=8B8BF5&currStreakLabel=8B8BF5"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyotakaaKira&theme=slate-dark&hide_border=true&bg_color=00000000&color=8B8BF5&line=8B8BF5&point=e8e8ed"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kiyotakaaKira&theme=darkhub&no-frame=true&row=1&column=6&margin-w=12"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyotakaaKira&theme=slate-dark&hide_border=true&bg_color=00000000&color=8B8BF5&line=8B8BF5&point=e8e8ed" width="100%"/>
 
 </div>
 
 <br/>
 
-## Engineering Principles
+## Engineering Principle
 
-> Every system I ship gets asked the same three questions before it's "done": What happens when this is wrong? What happens when someone attacks it? What happens when it has to work without me watching it? A product that hasn't answered those is a prototype wearing a product's clothes.
+> Every system gets three questions before it ships: what happens when it's wrong, what happens when it's attacked, what happens when no one's watching it. Unanswered, it's a prototype wearing a product's clothes.
 
 <br/>
 
 <div align="center">
-
----
 
 <a href="https://portfolio-nfdc.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/">LinkedIn</a> &nbsp;·&nbsp;

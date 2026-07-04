@@ -1,247 +1,308 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Adithyan Jagadeeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building the Future of AI Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:1a1a3e&height=260&section=header&text=ADITHYAN&fontSize=70&fontColor=e8e8ed&fontAlignY=35&desc=Building%20Secure%20AI%20Infrastructure&descAlignY=52&descSize=20&descColor=8B8BF5&animation=fadeIn" width="100%"/>
 
-<br/>
-
-<a href="https://github.com/kiyotakaaKira">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=8A8AFF&center=true&vCenter=true&width=650&lines=AI+Systems+Engineer;AI+Security+Researcher;Full+Stack+AI+Builder;Startup+Founder+|+Hackathon+Builder;Building+Valsia+AI" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=8B8BF5&center=true&vCenter=true&width=620&lines=Founder+%40+Valsia;AI+Infrastructure+Engineer;Secure+Agentic+Systems;Backend+%2B+Cybersecurity;8+Shipped+Products.+One+Standard." alt="Typing SVG" />
 
 <br/><br/>
 
-<p>
-<a href="https://portfolio-nfdc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:adithyan08.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<a href="https://portfolio-nfdc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=8B8BF5" /></a>
+<a href="https://github.com/kiyotakaaKira"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8B8BF5" /></a>
+<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B8BF5" /></a>
+<a href="mailto:adithyan08.work@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=8B8BF5" /></a>
 
-<p>
-<a href="#-hackathon-journey"><img src="https://img.shields.io/badge/Hackathons-View Journey-1a1a2e?style=for-the-badge&logo=devpost&logoColor=white" alt="Hackathons"/></a>
-</p>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=kiyotakaaKira&label=Profile Views&color=6C63FF&style=flat-square" alt="Profile Views"/>
+<table>
+<tr>
+<td align="center"><b>Location</b><br/>Chennai 🇮🇳</td>
+<td align="center"><b>Focus</b><br/>AI Infrastructure</td>
+<td align="center"><b>Current Build</b><br/>Valsia</td>
+<td align="center"><b>Hackathons</b><br/>10+</td>
+<td align="center"><b>Shipped Repos</b><br/>8</td>
+<td align="center"><b>Open Source</b><br/>Active</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3e,100:000000&height=40&section=header" width="100%"/>
 
-## 🧠 About Me
+## About
 
-I'm **Adithyan Jagadeeswaran** — an AI Systems Engineer and Computer Science undergraduate (AI & Data Science) at Chennai Institute of Technology, building toward a future where intelligent systems are not just smart, but **secure, scalable, and trustworthy**.
-
-I operate at the intersection of **Artificial Intelligence** and **Cybersecurity** — designing agentic AI systems while thinking like an attacker to make them resilient. My work spans full-stack AI product development, cloud infrastructure, Linux, and network security, backed by hands-on experience across national hackathons and open-source contributions.
-
-Currently, I'm building **Valsia**, learning to secure the systems I create, and preparing for the day I lead an engineering team building products that matter.
-
-```jsx
-const founder = {
-  name: "Adithyan Jagadeeswaran",
-  roles: ["AI Systems Engineer", "AI Security Researcher", "Founder"],
-  currentlyBuilding: "Valsia",
-  focus: ["Agentic AI", "AI Security", "Cloud Systems", "Open Source"],
-};
-```
+I build AI systems that hold up outside a demo — agentic products, real-time platforms, and infrastructure designed the way a security engineer would design it: assuming failure, assuming attack, assuming no one's watching. Currently founding **Valsia**, an AI career-readiness engine, alongside seven other shipped products spanning healthcare trust infrastructure, campus operations, and AI-assisted forensics. AI & Data Science undergrad at Chennai Institute of Technology — student status, not student ambition.
 
 <br/>
 
-## ⚙️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sqlite" />
-
-**Frameworks & Backend**
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flask,fastapi" />
-
-**Databases & Cloud**
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,vercel,render" />
-
-</td>
-<td valign="top" width="50%">
-
-**AI / Machine Learning**
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-
-**Security & Networking**
-<img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
-
-**Tools**
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma,canva,notion" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚧 Currently Building
+## Flagship Products
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🟣 Valsia**
-An AI-powered skill-to-job conversion engine — converts a person's existing skills into a job-readiness score, gap analysis, and a 30-day execution roadmap.
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Active Focus Areas**
-
-- Agentic AI architectures
-- AI & LLM security research
-- Cloud-native system design
-- Hackathon builds & open-source
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🟣 Valsia**
-AI-powered skill-to-job conversion engine with local LLM inference for private, self-hosted deployment.
+### 🟣 Valsia
+**AI career-readiness engine**
+Converts existing skills into a job-fit score, gap analysis, and 30-day execution plan. Self-hosted, local LLM inference.
 
 `Next.js` `TypeScript` `Docker` `Local LLM`
+![](https://img.shields.io/badge/status-MVP%20active-8B8BF5?style=flat-square)
+`▰▰▰▱▱▱▱` Phase 1 of 3
 
-Status
-
-`Live` · `Repository`
+[`Live`](https://valsia-1-kappa.vercel.app) · [`Repo`](https://github.com/kiyotakaaKira/valsia-1)
 
 </td>
 <td width="50%" valign="top">
 
-**🛡️ CIT-Sentinel**
-Real-time academic risk-prediction platform — scores 560+ students across five dimensions and routes interventions to six role-based dashboards.
+### 🟢 CIT-Sentinel
+**Dropout-prediction platform**
+Scores 560+ students in real time across 5 dimensions; routes interventions across 6 live role-based dashboards.
 
-`React` `Node.js` `MongoDB Atlas` `Llama 3.2 + Claude fallback`
+`React` `Node.js` `MongoDB Atlas` `Llama 3.2 + Claude`
+![](https://img.shields.io/badge/status-deployed-8B8BF5?style=flat-square)
+`▰▰▰▰▰▰▰` Live with data
 
-Status
+[`Live`](https://cit-sentinal.vercel.app) · [`Repo`](https://github.com/kiyotakaaKira/cit-sentinel-v2)
 
-`Live` · `Repository`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖐 AURA
+**Touchless HCI platform**
+Real-time hand-gesture recognition for full computer control — cursor, clicks, scroll — on a plain webcam.
+
+`Python` `OpenCV` `MediaPipe`
+![](https://img.shields.io/badge/status-active%20dev-8B8BF5?style=flat-square)
+`▰▰▰▰▱▱▱` v0.4.0
+
+[`Repo`](https://github.com/kiyotakaaKira/AURA-)
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 SIRONA AI
+**Patient-owned healthcare trust layer**
+Infrastructure between patients, hospitals, and pharmacies — every access scoped, time-boxed, revocable, and logged.
+
+`Next.js` `TypeScript` `Supabase` `Express`
+![](https://img.shields.io/badge/status-hackathon%20build-8B8BF5?style=flat-square)
+`▰▰▰▰▱▱▱` Vertexa Hackathon
+
+[`Repo`](https://github.com/kiyotakaaKira/SIRONA-)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 CampusIQ
+**AI-powered campus operations platform**
+Unifies attendance, events, transport, and service requests with an AI copilot and live campus health score.
+
+`React` `TypeScript` `Node.js` `MongoDB`
+![](https://img.shields.io/badge/status-active%20build-8B8BF5?style=flat-square)
+`▰▰▰▰▰▱▱` In progress
+
+[`Repo`](https://github.com/kiyotakaaKira/CAMPUS-IQ)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 INNOVATO
+**AI career-strategist platform**
+Skill-gap intelligence, career-path explorer, and employability dashboard powered by an AI assistant.
+
+`React` `TypeScript` `Featherless AI`
+![](https://img.shields.io/badge/status-hackathon%20build-8B8BF5?style=flat-square)
+`▰▰▰▰▱▱▱` SahAI for Shiksha 2026
+
+[`Live`](https://innovato-theta.vercel.app) · [`Repo`](https://github.com/kiyotakaaKira/INNOVATO)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎟 Eventsphere
+**Event management & ticketing platform**
+Full event lifecycle — discovery, tiered booking, QR check-in, organizer analytics.
+
+`Next.js` `TypeScript` `Supabase` `shadcn/ui`
+![](https://img.shields.io/badge/status-functional-8B8BF5?style=flat-square)
+`▰▰▰▰▰▱▱` Core flows complete
+
+[`Repo`](https://github.com/kiyotakaaKira/Eventsphere)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Forensic AI Platform
+**AI-assisted case investigation tool**
+Case management, evidence analysis, timeline reconstruction, and knowledge-graph visualization, backed by Gemini 1.5.
+
+`Next.js` `Express` `Supabase` `Gemini API`
+![](https://img.shields.io/badge/status-functional-8B8BF5?style=flat-square)
+`▰▰▰▰▰▱▱` Core flows complete
+
+[`Repo`](https://github.com/kiyotakaaKira/VICTA-AI)
 
 </td>
 </tr>
 </table>
 
-> **Note:** Only Valsia and CIT-Sentinel are shown here because they're the two projects I could actually verify on your GitHub — real repos, real READMEs, real deployments. AURA, Anime Verse PvP, HealthMesh AI, AI Smart Patient Triage, and the Aptitude Assessment Platform from earlier drafts don't correspond to repos I could find on `github.com/kiyotakaaKira`, so I've left them out rather than publish unverifiable projects on your profile. Send me the repo links for any of these and I'll add proper cards for them.
-> 
+<sub><i>Every card is backed by a repo I opened and read directly. Not shown: a course-coded aptitude quiz, a thin boilerplate scaffold, a fan page, a physics-class experiment, and an empty hackathon fork — none add engineering signal.</i></sub>
 
 <br/>
 
-## 🏆 Hackathon Journey
-
-| Event | Highlight |
-| --- | --- |
-| **RIFT** | National-level hackathon — full-stack build under time pressure |
-| **Vortexa** | Built and pitched a technical solution in a high-intensity sprint |
-| **SDG Hackathon** | Tech solution mapped to a UN Sustainable Development Goal |
-| **Aiventra** | AI-focused hackathon — applied ML solution |
-| **Resilient** | Resilience-focused system under constrained resources |
-| **DevFusion** | Cross-functional build spanning frontend, backend, and AI |
-| **ET Hackathon** | Rapid prototyping challenge with a scalability focus |
-| **SAHAI** | AI-for-good hackathon — social impact through technology |
-| **HackOrbit** | Working product demoed within a 24–36 hour sprint |
-| **Bharatiya Antariksh Hackathon** | National space-tech hackathon — AI/ML applied to a space-domain challenge |
-
-<br/>
-
-## 🔐 Cybersecurity
-
-I approach AI engineering with a security-first mindset — systems that aren't secure aren't finished.
-
-- 🐧 **Linux & Networking** — comfortable across the stack, from shell to socket
-- 🕵️ **Ethical Hacking & CTFs** — hands-on practice with real-world attack surfaces
-- 📋 **OWASP Fundamentals** — building with secure-by-design principles
-- 🤖 **AI Security & Agent Security** — securing LLM pipelines and autonomous agents
-- 🧩 **Threat Modeling** — mapping attack surfaces before they become incidents
-- 🔒 **Zero Trust Principles** — assume breach, verify everything
-
-<br/>
-
-## 📊 GitHub Analytics
+## Featured Repositories
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kiyotakaaKira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8A8AFF&icon_color=8A8AFF&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakaaKira&theme=dark&hide_border=true&background=0d1117&ring=8A8AFF&fire=8A8AFF&currStreakLabel=8A8AFF"/>
+<a href="https://github.com/kiyotakaaKira/valsia-1"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kiyotakaaKira&repo=valsia-1&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/></a>
+<a href="https://github.com/kiyotakaaKira/cit-sentinel-v2"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kiyotakaaKira&repo=cit-sentinel-v2&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyotakaaKira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8A8AFF&text_color=c9d1d9"/>
+<a href="https://github.com/kiyotakaaKira/AURA-"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kiyotakaaKira&repo=AURA-&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/></a>
+<a href="https://github.com/kiyotakaaKira/SIRONA-"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kiyotakaaKira&repo=SIRONA-&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/></a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyotakaaKira&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A8AFF&line=8A8AFF&point=ffffff" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=kiyotakaaKira&theme=darkhub&no-frame=true&row=1&margin-w=15&column=7"/>
+<a href="https://github.com/kiyotakaaKira/CAMPUS-IQ"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kiyotakaaKira&repo=CAMPUS-IQ&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/></a>
+<a href="https://github.com/kiyotakaaKira/VICTA-AI"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=kiyotakaaKira&repo=VICTA-AI&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/></a>
 
 </div>
 
+<br/>
+
+## Engineering Domains
+
+<table>
+<tr><td width="20%"><b>AI Systems</b></td><td width="30%">Agentic architectures, LLM orchestration, local/cloud fallback</td><td width="25%"><code>Llama 3.2</code> <code>Gemini</code> <code>Featherless</code></td><td width="25%">`▰▰▰▰▰▱▱` Applied across 5 products</td></tr>
+<tr><td><b>Backend Engineering</b></td><td>REST APIs, SSE real-time sync, schema-driven data integrity</td><td><code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Supabase</code></td><td>`▰▰▰▰▰▰▱` Core strength</td></tr>
+<tr><td><b>Cybersecurity / AI Security</b></td><td>Threat modeling, agent security, evidence-chain design</td><td><code>Zero Trust</code> <code>Forensic AI</code></td><td>`▰▰▰▰▱▱▱` Actively deepening</td></tr>
+<tr><td><b>Computer Vision</b></td><td>Real-time gesture recognition and tracking pipelines</td><td><code>OpenCV</code> <code>MediaPipe</code></td><td>`▰▰▰▰▱▱▱` Shipped in AURA</td></tr>
+<tr><td><b>Full-Stack Product Eng.</b></td><td>Six+ shipped frontends across React/Next.js ecosystems</td><td><code>React</code> <code>Next.js</code> <code>Tailwind</code></td><td>`▰▰▰▰▰▰▰` Daily driver</td></tr>
+<tr><td><b>Cloud & Infra</b></td><td>Deployment pipelines, managed DBs, containerized services</td><td><code>Vercel</code> <code>MongoDB Atlas</code> <code>Docker</code></td><td>`▰▰▰▰▰▱▱` Production-tested</td></tr>
+</table>
+
+<br/>
+
+## Architecture
+
+**Valsia**
+```
+User Skills Input → Skill Evaluation Engine → Job Role Mapping
+     → Readiness Score → Skill Gap Analysis → 30-Day Roadmap
+     (all inference local via Docker + GGUF model, no external API)
+```
+
+**CIT-Sentinel**
+```
+React/Vite Dashboards (×6 roles) ⇄ Express API ⇄ MongoDB Atlas
+                    │                                │
+              SSE broadcast                   pre-save hook
+           (live score push)              (auto risk recalculation)
+                    │
+        Llama 3.2 (primary) → Claude Sonnet (fallback)
+```
+
+**AURA**
+```
+Webcam Feed → MediaPipe Hand Landmarks → Gesture Classifier
+     → OS-Level Cursor/Click/Scroll Events (cross-platform)
+```
+
+**SIRONA AI**
+```
+Patient ⇄ Consent Ledger ⇄ Institution Request
+              │
+     Scoped · Time-boxed · Revocable · Cryptographically Logged
+              │
+     AI Layer: fraud detection + continuity — never gatekeeps, never diagnoses
+```
+
+<br/>
+
+## Current Focus
+
+```
+Building        ▰▰▰▰▰▰▱  Scaling Valsia past MVP
+Hardening       ▰▰▰▰▱▱▱  AI infra — fallback inference, prompt-injection resistance
+Consolidating   ▰▰▰▱▱▱▱  Merging parallel hackathon builds into fewer, deeper products
+Open Source     ▰▰▱▱▱▱▱  Contributing outward, not just shipping inward
+```
+
+<br/>
+
+## Hackathon Journey
+
+> **Bharatiya Antariksh Hackathon** — National space-tech hackathon, AI/ML applied to a space-domain challenge
+
+> **HackOrbit** — Working product demoed within a 24–36 hour sprint
+
+> **SAHAI** — AI-for-good hackathon, social impact through technology *(→ shaped INNOVATO)*
+
+> **ET Hackathon** — Rapid prototyping challenge with a scalability focus
+
+> **DevFusion** — Cross-functional build spanning frontend, backend, and AI
+
+> **Resilient** — Resilience-focused system under constrained resources
+
+> **Aiventra** — AI-focused hackathon, applied ML solution
+
+> **SDG Hackathon** — Tech solution mapped to a UN Sustainable Development Goal
+
+> **Vortexa** — Technical solution built and pitched in a high-intensity sprint *(→ shaped SIRONA AI)*
+
+> **RIFT** — National-level hackathon, full-stack build under time pressure
+
+<br/>
+
+## Certifications
+
+<sub><i>Not listed. I couldn't verify Google Student Ambassador, CCNA, or any certification claims against your GitHub or a public source — so rather than print unverifiable credentials, this section stays empty until you confirm them.</i></sub>
+
+<br/>
+
+## Open Source
+
+I treat open source as code review from strangers with no reason to be polite about it — the fastest way to find out if my architecture decisions actually hold up.
+
+```
+[■■■■■■■■□□] Learning       — Reading codebases, understanding contribution norms
+[■■■■□□□□□□] Contributing   — First PRs merged, issues fixed
+[■□□□□□□□□□] Maintaining    — Owning issues end-to-end
+[□□□□□□□□□□] Leading        — Directing roadmaps, mentoring contributors
+```
+
+<br/>
+
+## GitHub Analytics
+
 <div align="center">
+
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=kiyotakaaKira&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/>
+<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakaaKira&theme=dark&hide_border=true&background=00000000&ring=8B8BF5&fire=8B8BF5&currStreakLabel=8B8BF5"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyotakaaKira&theme=slate-dark&hide_border=true&bg_color=00000000&color=8B8BF5&line=8B8BF5&point=e8e8ed" width="100%"/>
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
-## 🌱 Open Source Roadmap
-
-```
-[■■■■■■■■□□] Learning       — Reading codebases, understanding contribution workflows
-[■■■■□□□□□□] Contributing   — First PRs merged, fixing issues, adding features
-[■□□□□□□□□□] Maintaining    — Owning issues end-to-end, reviewing PRs
-[□□□□□□□□□□] Leading        — Directing project roadmaps, mentoring contributors
-```
-
-<br/>
-
-## ✍️ Blog — Coming Soon
-
-| Topic | Focus |
-| --- | --- |
-| 🤖 AI | Agentic systems, LLM engineering, applied ML |
-| 🔐 Cybersecurity | AI security, network defense, CTF write-ups |
-| 🚀 Startups | Building in public, founder lessons |
-| 🛠️ Engineering | System design, backend architecture |
-
-<br/>
-
-<div align="center">
-
-## 💭 Philosophy
-
-> *"Build systems that outlive motivation. Build security that outlives assumptions.Ship the version that scares you a little — then make it robust enough to trust."*
-> 
 
 </div>
 
 <br/>
 
-## 📬 Let's Connect
+## Engineering Philosophy
+
+> Every system gets three questions before it ships: what happens when it's wrong, what happens when it's attacked, what happens when no one's watching it. Unanswered, it's a prototype wearing a product's clothes. Eight products taught me the same lesson eight times — the version that scares you a little is usually the one worth shipping.
+
+<br/>
 
 <div align="center">
 
-<a href="https://portfolio-nfdc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/kiyotakaaKira"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a3e,50:0a0a2e,100:000000&height=140&section=footer"/>
 
-<br/><br/>
-
-<i>Open to internships, collaborations, and building the next big thing together.</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+<a href="https://portfolio-nfdc.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://github.com/kiyotakaaKira">GitHub</a> &nbsp;·&nbsp;
+<a href="mailto:adithyan08.work@gmail.com">adithyan08.work@gmail.com</a>
 
 </div>

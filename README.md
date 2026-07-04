@@ -1,28 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Adithyan Jagadeeswaran&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building the Future of AI Systems&descAlignY=58&descSize=18" width="100%"/>
+<h1>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=4000&pause=1000&color=7C83FD&center=true&vCenter=true&width=950&height=80&lines=ADITHYAN+JAGADEESWARAN" />
+</h1>
 
-<br/>
+<h3>
+Founder @ <b>Valsia</b> • AI Systems Engineer • AI Security Enthusiast
+</h3>
 
-<a href="https://github.com/kiyotakaaKira">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=8A8AFF&center=true&vCenter=true&width=650&lines=AI+Systems+Engineer;AI+Security+Researcher;Full+Stack+AI+Builder;Startup+Founder+|+Hackathon+Builder;Building+Valsia+AI" alt="Typing SVG" />
+<p>
+Building secure AI infrastructure, intelligent backend systems and production-ready agentic AI.
+</p>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=8A8AFF&center=true&vCenter=true&width=850&lines=Building+Valsia;AI+Infrastructure;Backend+Engineering;AI+Security;Agentic+AI;Cloud+Architecture;Hackathon+Builder;Open+Source+Developer" />
+
+<br><br>
+
+<a href="https://portfolio-nfdc.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<p>
-<a href="https://portfolio-nfdc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:adithyan08.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<a href="mailto:adithyan08.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<p>
-<a href="#-hackathon-journey"><img src="https://img.shields.io/badge/Hackathons-View Journey-1a1a2e?style=for-the-badge&logo=devpost&logoColor=white" alt="Hackathons"/></a>
-</p>
+<a href="https://github.com/kiyotakaaKira">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=kiyotakaaKira&label=Profile Views&color=6C63FF&style=flat-square" alt="Profile Views"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kiyotakaaKira&label=PROFILE+VIEWS&style=for-the-badge&color=7C83FD"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+| 🚀 Startup | 💻 Focus | 🔐 Research | 🌍 Location |
+|:----------:|:--------:|:-----------:|:-----------:|
+| **Valsia AI** | AI Infrastructure | AI Security | Chennai, India |
+
+| 🏆 Hackathons | 🌱 Open Source | 🎯 Goal | 🤝 Open To |
+|:-------------:|:-------------:|:-------:|:----------:|
+| **10+** | Active | AI Systems Architect | Internships & Collaboration |
+
+</div>
+
+---
+
 
 <br/>
 

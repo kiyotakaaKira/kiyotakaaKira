@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/hero.svg)" width="100%"/>
+<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/hero.svg" width="100%" alt="Hero Banner"/>
 
-<br/><br/>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=8B8BF5&center=true&vCenter=true&width=600&lines=Founder+%40+Valsia;AI+Systems+Engineer;AI+Security+Researcher;Building+Secure+AI+Infrastructure" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=8B8BF5&center=true&vCenter=true&width=700&lines=Founder+%40+Valsia;AI+Systems+Engineer;AI+Security+Researcher;Building+Secure+AI+Infrastructure" alt="Typing SVG"/>
 <br/><br/>
 </div>
 

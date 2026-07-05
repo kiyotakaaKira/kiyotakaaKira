@@ -242,59 +242,88 @@ DISTRIBUTED SYSTEMS    ■■■■■      Multi-dashboard sync, event-driven a
 [ 🔒 LOCKED ]  TryHackMe
 [ 🔒 LOCKED ]  CCNA
 ```
+## 🔐 Cybersecurity
 
-<sub><i>These stay locked, not unlocked, until you send proof — a certificate link, credential ID, whatever's easiest. I won't print "Unlocked" next to something I can't verify, game theme or not.</i></sub>
+I approach AI engineering with a security-first mindset — systems that aren't secure aren't finished.
 
-<br/>
-
-## LEVEL 9 — AI LAB
-
-```
-CURRENT EXPERIMENTS
-
-  Prompt Injection Defense    ▰▰▰▱▱▱▱   researching input isolation
-  Agent Security               ▰▰▰▰▱▱▱   core focus for Valsia v2
-  LLM Routing                  ▰▰▰▰▰▱▱   local/cloud fallback in production
-  Local Models                 ▰▰▰▰▰▰▱   GGUF inference shipped in Valsia
-  Distributed AI                ▰▰▱▱▱▱▱   early exploration
-  Threat Modeling                ▰▰▰▰▰▱▱   applied across every shipped product
-```
+- 🐧 **Linux & Networking** — comfortable across the stack, from shell to socket
+- 🕵️ **Ethical Hacking & CTFs** — hands-on practice with real-world attack surfaces
+- 📋 **OWASP Fundamentals** — building with secure-by-design principles
+- 🤖 **AI Security & Agent Security** — securing LLM pipelines and autonomous agents
+- 🧩 **Threat Modeling** — mapping attack surfaces before they become incidents
+- 🔒 **Zero Trust Principles** — assume breach, verify everything
 
 <br/>
 
-## LEVEL 10 — COMMAND CENTER
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=kiyotakaaKira&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=8B8BF5&icon_color=8B8BF5&text_color=c4c4cc"/>
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakaaKira&theme=dark&hide_border=true&background=00000000&ring=8B8BF5&fire=8B8BF5&currStreakLabel=8B8BF5"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kiyotakaaKira&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8A8AFF&icon_color=8A8AFF&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyotakaaKira&theme=dark&hide_border=true&background=0d1117&ring=8A8AFF&fire=8A8AFF&currStreakLabel=8A8AFF"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyotakaaKira&theme=slate-dark&hide_border=true&bg_color=00000000&color=8B8BF5&line=8B8BF5&point=e8e8ed" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyotakaaKira&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8A8AFF&text_color=c9d1d9"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kiyotakaaKira&theme=react-dark&hide_border=true&bg_color=0d1117&color=8A8AFF&line=8A8AFF&point=ffffff" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=kiyotakaaKira&theme=darkhub&no-frame=true&row=1&margin-w=15&column=7"/>
+
+</div>
+
+<div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+## 🌱 Open Source Roadmap
+
+```
+[■■■■■■■■□□] Learning       — Reading codebases, understanding contribution workflows
+[■■■■□□□□□□] Contributing   — First PRs merged, fixing issues, adding features
+[■□□□□□□□□□] Maintaining    — Owning issues end-to-end, reviewing PRs
+[□□□□□□□□□□] Leading        — Directing project roadmaps, mentoring contributors
+```
+
+<br/>
+
+## ✍️ Blog — Coming Soon
+
+| Topic | Focus |
+| --- | --- |
+| 🤖 AI | Agentic systems, LLM engineering, applied ML |
+| 🔐 Cybersecurity | AI security, network defense, CTF write-ups |
+| 🚀 Startups | Building in public, founder lessons |
+| 🛠️ Engineering | System design, backend architecture |
+
+<br/>
+
+<div align="center">
+
+## 💭 Philosophy
+
+> *"Build systems that outlive motivation. Build security that outlives assumptions.Ship the version that scares you a little — then make it robust enough to trust."*
+> 
 
 </div>
 
 <br/>
 
-## LEVEL 11 — ENDING
-
-```
-===========================
-SYSTEM STATUS
-
-ONLINE
-
-Always Building.
-Always Learning.
-Always Shipping.
-===========================
-
-Press ENTER to continue...
-```
+## 📬 Let's Connect
 
 <div align="center">
 
-<a href="mailto:adithyan08.work@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-05050a?style=for-the-badge&logo=gmail&logoColor=8B8BF5" /></a>
+<a href="https://portfolio-nfdc.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/kiyotakaaKira"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>Open to internships, collaborations, and building the next big thing together.</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
 
 </div>

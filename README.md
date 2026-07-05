@@ -1,8 +1,13 @@
 <div align="center">
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=42&duration=4000&pause=1000&color=7C83FD&center=true&vCenter=true&width=950&height=80&lines=ADITHYAN+JAGADEESWARAN" />
-</h1>
+<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/Grey%20and%20Black%20Simple%20Marketing%20LinkedIn%20Banner%20(1).png" width="100%"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=8B8BF5&center=true&vCenter=true&width=600&lines=Founder+%40+Valsia;AI+Systems+Engineer;AI+Security+Researcher;Building+Secure+AI+Infrastructure" alt="Typing SVG" />
+
+<br/><br/>
+</div>
 
 <h3>
 Founder @ <b>Valsia</b> • AI Systems Engineer • AI Security Enthusiast

@@ -40,15 +40,61 @@
 
 <br/>
 
-## LEVEL 3 — MISSION CONTROL
+## 🧠 About Me
 
-<table>
-<tr><td width="20%" align="center"><b>STATUS</b><br/>🟢 ONLINE</td><td width="20%" align="center"><b>CURRENT MISSION</b><br/>Building Valsia</td><td width="20%" align="center"><b>RESEARCH</b><br/>Agent Security</td><td width="20%" align="center"><b>LOCATION</b><br/>Chennai</td><td width="20%" align="center"><b>LEVEL</b><br/>Founder</td></tr>
-<tr><td align="center"><b>REPOSITORIES</b><br/>8 shipped</td><td align="center"><b>HACKATHONS</b><br/>10+</td><td align="center"><b>UPTIME</b><br/>Always shipping</td><td align="center"><b>CLASS</b><br/>AI × Security</td><td align="center"><b>NEXT MILESTONE</b><br/>Valsia v2</td></tr>
-</table>
+I'm **Adithyan Jagadeeswaran** — an AI Systems Engineer and Computer Science undergraduate (AI & Data Science) at Chennai Institute of Technology, building toward a future where intelligent systems are not just smart, but **secure, scalable, and trustworthy**.
+
+I operate at the intersection of **Artificial Intelligence** and **Cybersecurity** — designing agentic AI systems while thinking like an attacker to make them resilient. My work spans full-stack AI product development, cloud infrastructure, Linux, and network security, backed by hands-on experience across national hackathons and open-source contributions.
+
+Currently, I'm building **Valsia**, learning to secure the systems I create, and preparing for the day I lead an engineering team building products that matter.
+
+```jsx
+const founder = {
+  name: "Adithyan Jagadeeswaran",
+  roles: ["AI Systems Engineer", "AI Security Researcher", "Founder"],
+  currentlyBuilding: "Valsia",
+  focus: ["Agentic AI", "AI Security", "Cloud Systems", "Open Source"],
+};
+```
 
 <br/>
 
+## ⚙️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sqlite" />
+
+**Frameworks & Backend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flask,fastapi" />
+
+**Databases & Cloud**
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,firebase,vercel,render" />
+
+</td>
+<td valign="top" width="50%">
+
+**AI / Machine Learning**
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+
+**Security & Networking**
+<img src="https://skillicons.dev/icons?i=linux,kali,git,github,docker" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,canva,notion" />
+
+</td>
+</tr>
+</table>
+
+<br/>
 ## LEVEL 4 — MISSION MAP
 
 <table>

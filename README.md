@@ -1,21 +1,40 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/assets/boot.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/boot.svg" width="100%" alt="Boot Animation" />
 
-<br/>
+<br><br>
 
-<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/assets/identity.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/identity.svg" width="100%" alt="Identity Banner" />
 
-</div>
+<br><br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=8B8BF5&center=true&vCenter=true&width=900&lines=Founder+%40+Valsia;AI+Systems+Engineer;AI+Security+Researcher;Building+Secure+AI+Infrastructure;Backend+Architecture;Agentic+AI;Hackathon+Builder;Open+Source+Developer" alt="Typing SVG"/>
 
-<div align="center">
+<br><br>
 
-<a href="https://portfolio-nfdc.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-05050a?style=for-the-badge&logo=vercel&logoColor=8B8BF5" /></a>
-<a href="https://github.com/kiyotakaaKira"><img src="https://img.shields.io/badge/GITHUB-05050a?style=for-the-badge&logo=github&logoColor=8B8BF5" /></a>
-<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/"><img src="https://img.shields.io/badge/LINKEDIN-05050a?style=for-the-badge&logo=linkedin&logoColor=8B8BF5" /></a>
-<a href="mailto:adithyan08.work@gmail.com"><img src="https://img.shields.io/badge/EMAIL-05050a?style=for-the-badge&logo=gmail&logoColor=8B8BF5" /></a>
+<a href="https://portfolio-nfdc.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-05050A?style=for-the-badge&logo=vercel&logoColor=8B8BF5"/>
+</a>
+
+<a href="https://github.com/kiyotakaaKira">
+<img src="https://img.shields.io/badge/GitHub-05050A?style=for-the-badge&logo=github&logoColor=8B8BF5"/>
+</a>
+
+<a href="https://www.linkedin.com/in/adithyan-jagadeeswaran/">
+<img src="https://img.shields.io/badge/LinkedIn-05050A?style=for-the-badge&logo=linkedin&logoColor=8B8BF5"/>
+</a>
+
+<a href="mailto:adithyan08.work@gmail.com">
+<img src="https://img.shields.io/badge/Email-05050A?style=for-the-badge&logo=gmail&logoColor=8B8BF5"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=kiyotakaaKira&label=PROFILE+VIEWS&style=for-the-badge&color=8B8BF5"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/divider.svg" width="100%" alt="Divider"/>
 
 </div>
 

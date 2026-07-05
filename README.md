@@ -46,7 +46,7 @@ Building secure AI infrastructure, intelligent backend systems and production-re
 
 | 🚀 Startup | 💻 Focus | 🔐 Research | 🌍 Location |
 |:----------:|:--------:|:-----------:|:-----------:|
-| **Valsia AI** | AI Infrastructure | AI Security | Chennai, India |
+| **Valsia AI** | AI Infrastructure | AI Security | India |
 
 | 🏆 Hackathons | 🌱 Open Source | 🎯 Goal | 🤝 Open To |
 |:-------------:|:-------------:|:-------:|:----------:|

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/assets/hero.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/kiyotakaaKira/kiyotakaaKira/main/assets/hero.svg " width="100%"/>
 
 <br/><br/>
 
